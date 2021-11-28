@@ -18,3 +18,7 @@ Enter Excel formulas.  Use "Help()" for details.
 
 > Exit()
 ```
+
+# Image
+
+See https://github.com/users/Syuparn/packages/container/package/power-fx-console-repl
