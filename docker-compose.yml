@@ -1,0 +1,5 @@
+version: '3.4'
+services:
+  repl:
+    build: .
+    tty: true
